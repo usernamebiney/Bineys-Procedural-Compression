@@ -31,10 +31,11 @@ All proposal documents (PDFs, notes, and related files) are located in the `docs
 
 ```text
 docs/
-├── proposal-v1.pdf                 # Main proposal
-├── optimization-notes.pdf          # Optimization ideas
-├── notation-clarifications.pdf     # Notation and terminology
-└── future-directions.pdf           # Additional research notes
+├── proposal-v1.pdf                              # Main proposal
+├── optimization-notes.pdf                       # Optimization ideas
+├── notation-clarifications.pdf                  # Notation and terminology
+├── future-directions.pdf                        # Additional research notes
+└── Biney's Procedural Compression_v1.md/pdf     # Most recent complete paper v1
 ```
 
 Please read the PDFs—they explain the idea from scratch in detail and consolidate everything discussed so far.
